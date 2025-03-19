@@ -214,11 +214,133 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
+**i)** Read and Display an Image.
+1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+
+
+![Screenshot 2025-03-09 154231](https://github.com/user-attachments/assets/31689cac-7a79-459c-9940-0adc26441782)
+
+
+
+
+
+
+ 2.Save image as PNG and display:
+
+
+
+
+ 
+  ![image](https://github.com/user-attachments/assets/f17ba18b-7549-45e8-80a4-8568b81b718b)
+
+
+
+
+
+
+  
+  3.Cropped image
+
+
+
+
+
+  
+  ![image](https://github.com/user-attachments/assets/ebd99581-276e-47f9-af37-c99423e803bc)
+
+
+
+
+
+  
+  4.Resize and flip Horizontally:
+
+
+
+
+  
+  ![image](https://github.com/user-attachments/assets/92cb7462-a2fd-4ba3-bf89-02785b629e1d)
+
+
+
+
+
+  
+  5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+
+
+
+
+![Screenshot 2025-03-11 082700](https://github.com/user-attachments/assets/564d076b-ed47-4903-8afe-52dc989b0800)
+
+
+
+
+  
+*ii)** Adjust Image Brightness.
+
+
+
+1.Create brighter and darker images and display:
+
+
+
+
+![image](https://github.com/user-attachments/assets/f34966ee-21f9-4441-bdd4-36c3da71b89d)
+
+
+
+  **iii)** Modify Image Contrast.
+
+
+1.Modify contrast using scaling factors 1.1 and 1.2
+
+ 
+![image](https://github.com/user-attachments/assets/998698a5-0d84-4f73-96d6-68421a529951)
+ 
+
+ **iv)** Generate Third Image Using Bitwise Operations.
+
+
+ 
+ 1.Split 'Boy.jpg' into B, G, R components and display: 
+
+
+
+![image](https://github.com/user-attachments/assets/54d59ef6-9800-4ff4-af13-f15fd602d334)
+
+
+
+
+2.Merge the R, G, B channels and display:
+
+
+
+![Screenshot 2025-03-11 082425](https://github.com/user-attachments/assets/6db4d2a2-8b21-43e5-976a-8f199eebc8cc)
+
+
+
+
+
+
+3.Split the image into H, S, V components and display:
+
+
+
+
+![Screenshot 2025-03-11 082414](https://github.com/user-attachments/assets/e5a79c38-d998-4ced-82d2-d750d465572d)
+
+
+
+
+
+4.Merge the H, S, V channels and display:
+
+
+
+![Screenshot 2025-03-11 082402](https://github.com/user-attachments/assets/2e2034ed-8cc3-4855-a8cb-87632e161c80)
+
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
-
