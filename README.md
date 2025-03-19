@@ -143,7 +143,6 @@ m = np.ones(img_rgb.shape, dtype="uint8") * 50
 ```python
 img_brighter = cv2.add(img_rgb, m)  
 img_darker = cv2.subtract(img_rgb, m)  
-# YOUR CODE HERE
 ```
 
 #### 17. Display the images (Original Image, Darker Image, Brighter Image).
